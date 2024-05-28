@@ -2,10 +2,10 @@
 > hola nino
 ## Informações sobre mim:
 >
--🌻Meu nome é Dany 
--🧡atualmente curso o ensino médio, pretendo cursar programação;
--🎨 Desenho nas horas vagas;
--🐤 Faço desenhos digitais mucho fuedas;
+- 🌻Meu nome é Dany
+- 🧡atualmente curso o ensino médio, pretendo cursar programação;
+- 🎨 Desenho nas horas vagas;
+- 🐤 Faço desenhos digitais mucho fuedas;
 >
 ## Informações adicionais:
 - 🍒 sou casada (meu marido é ciumento)
